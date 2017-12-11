@@ -1,9 +1,9 @@
 {
-  "name": "jekyons",
-  "version": "1.0.0",
-  "description": "Stop writing CSS and start building prototypes.",
+  "name": "Wydown",
+  "version": "",
+  "description": "",
   "main": "index.js",
-  "repository": "tinychime/jekyons",
+  "repository": "joeletchford/wydown",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
