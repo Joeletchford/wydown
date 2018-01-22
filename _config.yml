@@ -2,7 +2,7 @@
 title: Wydown
 version: "v1"
 description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/Wydown" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Tachyons Version
